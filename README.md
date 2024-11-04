@@ -49,7 +49,7 @@
         <li>Salt</li>
         <li>Sugar</li>
     </ul>
-</body>
+ </body>
 </fieldset><br>
 <fieldset>
 <head>
@@ -177,40 +177,18 @@
     <input type="checkbox" id="Gender" name="Male" value="Male">
     <label for="Male">Male </label>
     <label for="email">Email:</label>
-        <input type="email" id="email" name="email" required><br><br>
-        <label for="password">Password:</label>
-        <input type="password" id="password" name="password"><br><br>
+    <input type="email" id="email" name="email" required><br><br>
+    <label for="password">Password:</label>
+    <input type="password" id="password" name="password"><br><br>
     <h3>Upload a Photo</h3>
     <form action="/upload" method="post" enctype="multipart/form-data">
-        <label for="photo">Choose a photo to upload:</label>
-        <input type="file" id="photo" name="photo" accept="image/*" required>
-        <br><br>
-        <input type="submit" value="Upload Photo">   
+    <label for="photo">Choose a photo to upload:</label>
+    <input type="file" id="photo" name="photo" accept="image/*" required>
+    <br><br>
+    <input type="submit" value="Upload Photo">   
     <input type="submit" value="Submit">
   </fieldset>
-  <fieldset>
-    <legend>Gardience's Information:</legend>
-    <label for="fname">First name:</label>
-    <input type="text" id="fname" name="fname" value="John">
-    <label for="lname">Last name:</label>
-    <input type="text" id="lname" name="lname" value="Doe">
-    <label for="phone">Phone number:</label>
-    <input type="tel" id="phone" name="phone" placeholder="+92 000-0000000" pattern="{+92}{3}[0-9][0-9]-[0-9][0-9][0-9][0-9][0-9][0-9][0-9]" required>
-    <label for="CNIC">CNIC:</label>
-    <input type="tel" id="CNIC" name="CNIC" placeholder="00000-0000000-0"
-    <label for="birthday">Birthday:</label>
-    <input type="date" id="birthday" name="birthday" value=""><br><br>
-    <label for="Caste">Caste:</label>
-    <input type="text" id="Caste" caste="Caste" value="">
-    <label for="Religion">Religion:</label>
-    <input type="text" id="religion" name="Religion" value="">
-    <label for="Father's Occupation">Father's Occupation:</label>
-    <input type="text" id="father's Occupation" Father's Occupation="Father's Occupation" value="">
-    <label for="Father's Income">Father's Income:</label>
-    <input type="text" id="father's Income" Father's Income="Father's Income" value=""><br><br>
-    <input type="submit" value="Submit">
-  </fieldset>
-  </form>
+    </form>
 </fieldset><br>
 <fieldset>
     <h3><u>Assignment No:09</u></h3>
@@ -300,7 +278,7 @@
 </fieldset><br>
 <center>
 <body>
-    <h3>Assignment submitted by:<u><b>ZAINAB ALI D/O MUHAMMAD ALI
+    <h3>Assignment submitted by <u><b>ZAINAB ALI D/O MUHAMMAD ALI
     </u></b></h3>
 </body></center>
 </html>
