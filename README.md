@@ -49,7 +49,7 @@
         <li>Salt</li>
         <li>Sugar</li>
     </ul>
-</body> </fieldset>
+</body>
  </body>
 <br>
 <fieldset>
@@ -188,8 +188,6 @@
     <br><br>
     <input type="submit" value="Upload Photo">   
     <input type="submit" value="Submit">
-        
-  </fieldset>
     </form>
 </fieldset><br>
 <fieldset>
@@ -280,8 +278,9 @@
 </fieldset><br>
 <center>
 <body>
-    <h3>Assignment submitted by <u><b>
+    <h3>
+        Assignment submitted by:
         ZAINAB ALI D/O MUHAMMAD ALI
-    </u></b></h3>
+    </h3>
 </body></center>
 </html>
