@@ -49,8 +49,9 @@
         <li>Salt</li>
         <li>Sugar</li>
     </ul>
+</body> </fieldset>
  </body>
-</fieldset><br>
+<br>
 <fieldset>
 <head>
     <title>Links Example</title>
@@ -187,6 +188,7 @@
     <br><br>
     <input type="submit" value="Upload Photo">   
     <input type="submit" value="Submit">
+        
   </fieldset>
     </form>
 </fieldset><br>
@@ -278,7 +280,8 @@
 </fieldset><br>
 <center>
 <body>
-    <h3>Assignment submitted by <u><b>ZAINAB ALI D/O MUHAMMAD ALI
+    <h3>Assignment submitted by <u><b>
+        ZAINAB ALI D/O MUHAMMAD ALI
     </u></b></h3>
 </body></center>
 </html>
